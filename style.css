@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    padding: 15px;
+    background-color: aqua;
+}
+ div{
+    display: flex;
+    justify-content: space-around;
+} 
+button{
+    font-size: 1em;
+}
+ #para1{
+    display: none;
+    background-color: pink;
+
+}
+#para2{
+    display: none;
+    background-color: yellow;
+    
+}
+#para3{
+    display: none;
+    background-color: wheat;
+}
+
+
